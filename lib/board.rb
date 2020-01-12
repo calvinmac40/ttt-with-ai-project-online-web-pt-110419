@@ -6,7 +6,7 @@ class Board
   def reset! 
      @cells = Array.new(9, " ")
      @cells.clear
-     binding.pry
+     #binding.pry
   end
   
 end
