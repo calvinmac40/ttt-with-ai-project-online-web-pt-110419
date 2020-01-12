@@ -16,6 +16,6 @@ class Board
   end
   
   def position(input)
-    
+    @cells[input] == "X" || @cells[input] == "O"
   end
 end
