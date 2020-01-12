@@ -12,7 +12,7 @@ class Board
   end
   
   def display
-    puts  "#{@cells[0]} | #{@cells[1]} | #{@cells[2]}"
+      "#{@cells[0]} | #{@cells[1]} | #{@cells[2]}"
     #     "----------"
     # puts "#{@cells[3]} | #{@cells[4]} | #{@cells[5]}"
     #     "----------" 
