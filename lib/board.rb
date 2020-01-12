@@ -12,9 +12,9 @@ class Board
   end
   
   def display
-    " X | X | X "
+   puts output =  " X | X | X "
     "-----------"
     " X | O | O "
     "-----------"
-    
+    " X | O | O "
 end
