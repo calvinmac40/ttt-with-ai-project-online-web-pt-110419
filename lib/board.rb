@@ -12,6 +12,6 @@ class Board
   end
   
   def display
-    
+    puts "#{@cells[1]}"
   end
 end
