@@ -12,6 +12,6 @@ class Board
   end
   
   def display
-    
+    output = " X | X |X "
   end
 end
