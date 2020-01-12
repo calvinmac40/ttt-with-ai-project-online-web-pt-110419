@@ -12,6 +12,6 @@ class Board
   end
   
   def display
-    puts "#{@cells[1]}"
+    puts "#{@cells[0]}" | "#{@cells[1]}" | "#{@cells[2]}"
   end
 end
