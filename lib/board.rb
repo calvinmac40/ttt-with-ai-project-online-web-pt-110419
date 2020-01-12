@@ -4,7 +4,7 @@ class Board
   
   def initialize
     @cells = Array.new(9, "X")
-    #binding.pry
+    binding.pry
   end
   
   
