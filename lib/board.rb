@@ -15,4 +15,5 @@ class Board
     " X | X | X "
     "-----------"
     " X | O | O "
+    
 end
