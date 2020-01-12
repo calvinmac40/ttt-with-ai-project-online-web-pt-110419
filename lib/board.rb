@@ -16,6 +16,6 @@ class Board
   end
   
   def position(input)
-    input = gets.chomp
+    
   end
 end
