@@ -14,5 +14,5 @@ class Board
   def display
     " X | X | X "
     "-----------"
-    
+    " X | O | O "
 end
