@@ -3,7 +3,7 @@ class Board
   attr_accessor :cells
   
   def initialize
-    @cells = Array.new(9, "X")
+    @cells = Array.new(9, " ")
     binding.pry
   end
   
